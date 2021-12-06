@@ -21,7 +21,7 @@ age             Age
 sibsp           Number of Siblings/Spouses Aboard
 parch           Number of Parents/Children Aboard
 ticket          Ticket Number
-fare            Passenger Fare
+fare            Passenger Fare //tarifa de pasajero
 cabin           Cabin
 embarked        Port of Embarkation
                 (C = Cherbourg; Q = Queenstown; S = Southampton)
